@@ -18,7 +18,7 @@
 ![Random Programming Joke](https://readme-jokes.vercel.app/api)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_crissyg_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christina-gordon-fl) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/crissyg) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/crissyg-the-encoder) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christina-gordon-fl) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/crissyg) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/crissyg-the-encoder) [![Hacker Rank](https://img.shields.io/badge/HackerRank-008000?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/crissyg_tina) 
 
 
 <!-- Stats were created with GPRM ( https://gprm.itsvg.in ) -->
