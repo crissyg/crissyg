@@ -1,4 +1,4 @@
-## 👋 Hi! My name is Christina and welcome to my page where you can learn more about me.
+## <h1 align="center">👋 Hi, my name is Christina.<br> Welcome to my page where you can learn more about me.</a>
 
 
 ### - 💻 Software Engineer  
